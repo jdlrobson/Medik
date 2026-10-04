@@ -20,6 +20,15 @@
 					"scripts": [
 						"skins.medik.js"
 					],
+					"menus": [
+						"user-menu",
+						"notifications",
+						"user-interface-preferences",
+						"user-page",
+						"associated-pages",
+						"views",
+						"actions"
+					],
 					"styles": [
 						"skins.medik"
 					]
